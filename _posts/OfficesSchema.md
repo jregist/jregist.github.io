@@ -38,42 +38,46 @@ Leo Alvarez<br /><br />
 Interior Design<br />
 Joyce Fownes
 
-Building Hours
+**Building Hours**
 
 Monday – Friday 8:00 am - 6:00 pm
 24/7 Access with Employee Keycard
 
-Reception Hours
+**Reception Hours**
 
 Monday – Friday 8:30 am - 5:30 pm
 
-Work Hours
+**Work Hours**
 
 Employees may start work between 7:30 am and 9:30 am, working a minimum of 8 hours plus one hour unpaid lunch break each day. Schedules should be consistent and approved by your manager to ensure project needs are covered.
 
-Who to Call 
+##Who to Call 
 
-<p>HUMAN RESOURCES</p>
-Amber Hamilton 
-HR, benefits, learning + development, firm/office culture.
-x7617
+**<p>HUMAN RESOURCES</p>**
+Amber Hamilton <br />
+HR, benefits, learning + development, firm/office culture.<br />
+x7617<br />
 
-ADMINISTRATIVE SUPPORT
-Sarah Whitley 
-Letters, mail, couriers, faxes, AIA contract support
+**<p>ADMINISTRATIVE SUPPORT</p>**
+Sarah Whitley <br />
+Letters, mail, couriers, faxes, AIA contract support<br />
 x7547
-RECEPTION SUPPORT
-Gwendolyn Bradford 
-Catering
-x0
-ACCOUNTING
-Chris Tully 
-Timesheets, expenses
-x7500
-OPERATIONS
-John Hogshead 
-Project staffing
-x7642
-OFFICE MANAGER
-Deidra Hankerson 
-Office manager, parking, seating charts
+
+**<p>RECEPTION SUPPORT</p>**
+Gwendolyn Bradford <br />
+Catering<br />
+x0<br />
+
+**<p>ACCOUNTING</p>**
+Chris Tully <br />
+Timesheets, expenses<br />
+x7500<br />
+
+**<p>OPERATIONS</p>**
+John Hogshead <br />
+Project staffing<br />
+x7642<br />
+
+**<p>OFFICE MANAGER</p>**
+Deidra Hankerson <br />
+Office manager, parking, seating charts<br />
